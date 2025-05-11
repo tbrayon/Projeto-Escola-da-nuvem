@@ -4,22 +4,22 @@
 
 
 Receber uploads de documentos e imagens de usuários (RG, CNH, selfies, etc.):
-  Serviço AWS: Amazon S3
+ - Serviço AWS: Amazon S3
 
- Extrair dados textuais dos documentos enviados:
-  Serviço AWS: Amazon Textract
+Extrair dados textuais dos documentos enviados:
+ - Serviço AWS: Amazon Textract
 
 Executar reconhecimento facial entre o documento e a selfie:
-  Serviço AWS: Amazon Rekognition
+ - Serviço AWS: Amazon Rekognition
 
 Validar automaticamente os dados extraídos, garantindo consistência e formato esperado:
-  Serviço AWS: Amazon Lambda 
+ - Serviço AWS: Amazon Lambda 
 
 Notificar falhas de verificação para o usuário via email ou sistema:
-  Serviço AWS:  Amazon SNS
+ - Serviço AWS:  Amazon SNS
 
 Registrar todas as etapas do processo para auditoria e rastreabilidade:
-  Serviço AWS: Amazon CloudWatch Logs, AWS CloudTrail
+ - Serviço AWS: Amazon CloudWatch Logs, AWS CloudTrail
 
 Controlar o fluxo do processo automaticamente.
   Serviço AWS: AWS Step Functions 
