@@ -34,3 +34,5 @@ A problemática abordada diz respeito à verificação de identidade e validaç�
 ## Apresentação
 
 - [Apresentação da Solução](/apresentacao.md)
+  
+- [Documentação ](/doc.md)
