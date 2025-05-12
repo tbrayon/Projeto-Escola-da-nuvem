@@ -35,4 +35,4 @@ A problemática abordada diz respeito à verificação de identidade e validaç�
 
 - [Apresentação da Solução](/apresentacao.md)
   
-- [Documentação ](/doc.md)
+- [Documentação ](Maos_no_Arado_Formatado_RESTART.pdf)
